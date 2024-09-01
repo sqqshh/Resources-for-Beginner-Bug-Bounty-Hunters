@@ -7,7 +7,7 @@ This Section is dedicated to all books related to Hacking, Web Hacking, & Bug Bo
 - [RTFM: Red Team Field Manual v2](https://amzn.to/3IZXVj2) by Ben Clark, Nick Downer 
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://amzn.to/3F5H9xT) by Dafydd Stuttard, and Marcus Pinto
 - [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://amzn.to/3mwdDLt) by Peter Kim
-- [Bug Bounty Bootcamp](https://amzn.to/3l1a8fn) by Vickie Li
+- [Bug Bounty Bootcamp](https://amzn.to/3l1a8fn) by Vickie Lii
 - [Black Hat Python](https://amzn.to/3T3a4Zd) by Justin Seitz and Tim Arnold
 
 
